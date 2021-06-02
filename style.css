@@ -1,0 +1,48 @@
+* {
+background-color: lemonchiffon;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#fun {
+    text-align: left;
+    color: burlywood;
+    text-shadow: 1px 1px bisque
+}
+
+
+nav {
+    display: block;
+    text-align: center;
+  }
+  
+nav a {
+    color: burlywood;
+    padding: 20px 25px;
+    text-decoration: none;
+    text-align: right;
+    background-color: burlywood;
+ }
+
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+    border-right: 1px lemonchiffon;
+  }
+  
+  li a {
+    display: block;
+    color: lemonchiffon;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: bisque;
+  }
